@@ -30,15 +30,15 @@ export default function layout({ children }) {
         <div >
             <div class="banner">
                 <div class="tagname">
-                    <Link class="nameLayout" to="/">Jiang Hulusi</Link>
+                    <Link class="nameLayout" to="/">Peter Jiang</Link>
                 </div>
 
 
                 <ul class="pagetabs">
-                    <ListLink to="/">Syllabus</ListLink>
-                    <ListLink to="/groups">Roster</ListLink>
+                    <ListLink to="/">About Me</ListLink>
+                    <ListLink to="/projects">Projects</ListLink>
                     <ListLink to="/contact">Contact</ListLink>
-                    <ListLink to="/announcements">Annoucements</ListLink>
+                    <ListLink to="/blog">Thoughts</ListLink>
 
                 </ul>
 
