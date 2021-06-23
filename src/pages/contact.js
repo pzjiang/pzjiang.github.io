@@ -8,6 +8,18 @@ const ContactPage = () => {
         <div>
             <Layout>
 
+                <div class="emailsection">
+
+                </div>
+
+                <div class="wechatsection">
+
+                </div>
+
+                <div class="githubsection">
+
+                </div>
+
             </Layout>
         </div>
     )
