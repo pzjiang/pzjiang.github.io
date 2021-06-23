@@ -7,6 +7,7 @@ const ContactPage = () => {
     return (
         <div>
             <Layout>
+                <title>Contact</title>
 
                 <div class="emailsection">
 

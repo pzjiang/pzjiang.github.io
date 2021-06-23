@@ -22,6 +22,7 @@ const BlogPage = () => {
     return (
         <div>
             <Layout>
+                <title>Blog</title>
 
             </Layout>
         </div>

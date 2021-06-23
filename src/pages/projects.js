@@ -7,6 +7,8 @@ const ProjectPage = () => {
     return (
         <div>
             <Layout>
+                <title>Projects</title>
+
                 <div class="hangman">
 
                 </div>

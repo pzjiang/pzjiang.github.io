@@ -84,7 +84,7 @@ const badgeStyle = {
 // markup
 const IndexPage = () => {
   return (
-    <div>
+    <div class="deskentry">
 
     </div>
   )
