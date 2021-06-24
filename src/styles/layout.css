@@ -5,5 +5,19 @@
 
 .nameLayout {
     text-decoration: none;
+    color: white;
 
+}
+.tabs {
+    color: white;
+
+}
+
+.tabs::selection {
+    color: pink;
+
+}
+
+.banner {
+    background-color: black;
 }

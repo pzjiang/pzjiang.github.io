@@ -10,8 +10,9 @@ import Layout from "../components/layout.js"
 const blogposts = [
 
     {
-
-
+        title: "",
+        date: "",
+        content: "",
     },
 
 ]

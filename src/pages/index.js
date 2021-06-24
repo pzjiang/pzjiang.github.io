@@ -85,7 +85,10 @@ const badgeStyle = {
 const IndexPage = () => {
   return (
     <div class="deskentry">
+      <title>Welcome</title>
+      <div>
 
+      </div>
     </div>
   )
 }
