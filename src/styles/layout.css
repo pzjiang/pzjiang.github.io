@@ -1,3 +1,4 @@
+
 .linkLayout {
     margin-right: 3rem;
     display: inline-block;
@@ -6,18 +7,35 @@
 .nameLayout {
     text-decoration: none;
     color: white;
+    font-size: 26px;
+    
 
 }
+.nameLayout:hover {
+    text-decoration: none;
+    color: white;
+}
+
 .tabs {
     color: white;
 
 }
-
-.tabs::selection {
+.tabs:current {
     color: pink;
 
 }
 
+.pagetabs {
+    float: right;
+    list-style: none;
+    margin-top: 0.3rem;
+}
+
 .banner {
     background-color: black;
+    display: block;
+    box-sizing: inherit;
+    margin: 0 0 auto;
+    margin-left: auto;
+    margin-right: auto;
 }
