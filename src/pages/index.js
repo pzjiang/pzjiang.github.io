@@ -85,10 +85,20 @@ const badgeStyle = {
 const IndexPage = () => {
   return (
     <div class="deskentry">
-      <title>Welcome</title>
-      <div>
+      <head>
 
+        <title>Peter Jiang</title>
+      </head>
+
+      <div class="hometitle">
+        <span id="name">Peter Jiang</span>
+        <span id="titlelabel">Software Developer</span>
       </div>
+
+      <div class="welcomebutton">
+        <a href="/about" class="welcomebuttonlink"><span>Enter</span></a>
+      </div>
+
     </div>
   )
 }
