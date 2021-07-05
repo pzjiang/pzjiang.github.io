@@ -25,6 +25,10 @@ const BlogPage = () => {
             <Layout>
                 <title>Blog</title>
 
+                <div class="blogstage">
+
+                </div>
+
             </Layout>
         </div>
     )
