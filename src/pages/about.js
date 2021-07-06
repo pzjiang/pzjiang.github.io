@@ -18,22 +18,22 @@ const blogposts = [
 ]
 
 
-const BlogPage = () => {
+const AboutPage = () => {
 
     return (
+        <div>
+            <Layout>
+                <title>About</title>
 
-        <Layout>
-            <title>Blog</title>
-
-            <div class="blogstage">
+                <div class="aboutstage">
 
 
-            </div>
+                </div>
 
-        </Layout>
-
+            </Layout>
+        </div >
     )
 
 }
 
-export default BlogPage
+export default AboutPage

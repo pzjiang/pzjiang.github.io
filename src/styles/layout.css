@@ -29,6 +29,7 @@
     float: right;
     list-style: none;
     margin-top: 0.3rem;
+    background-color: black;
 }
 
 .banner {
@@ -38,4 +39,9 @@
     margin: 0 0 auto;
     margin-left: auto;
     margin-right: auto;
+    width: 100vw;
+}
+
+.entiredesk {
+    margin: 0px;
 }

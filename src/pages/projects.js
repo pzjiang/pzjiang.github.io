@@ -5,29 +5,29 @@ import Layout from "../components/layout.js"
 const ProjectPage = () => {
 
     return (
-        <div>
-            <Layout>
-                <title>Projects</title>
 
-                <div class="hangman">
+        <Layout>
+            <title>Projects</title>
 
-                </div>
+            <div class="hangman">
 
-                <div class="moneybud">
+            </div>
 
-                </div>
-                <div class="boof">
+            <div class="moneybud">
 
-                </div>
-                <div class="hulusi">
+            </div>
+            <div class="boof">
 
-                </div>
-                <div class="crudfirst">
+            </div>
+            <div class="hulusi">
 
-                </div>
+            </div>
+            <div class="crudfirst">
 
-            </Layout>
-        </div>
+            </div>
+
+        </Layout>
+
     )
 
 }

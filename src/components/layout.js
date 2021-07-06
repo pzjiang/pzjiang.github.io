@@ -27,15 +27,15 @@ const ListLink = props => (
 
 export default function layout({ children }) {
     return (
-        <div >
+        <div class="entiredesk">
             <div class="banner">
-                <div class="tagname">
-                    <Link class="nameLayout" to="/">Peter Jiang</Link>
-                </div>
+
+                <Link class="nameLayout" to="/">Peter Jiang</Link>
+
 
 
                 <ul class="pagetabs">
-                    <ListLink to="/">About Me</ListLink>
+                    <ListLink to="/about">About Me</ListLink>
                     <ListLink to="/projects">Projects</ListLink>
                     <ListLink to="/contact">Contact</ListLink>
                     <ListLink to="/blog">Thoughts</ListLink>
@@ -53,7 +53,7 @@ export default function layout({ children }) {
             </div>
 
             <div class="footer">
-                <hr />
+                <hr style={{ width: "100vw" }} />
 
                 <div class="copyright">
 
