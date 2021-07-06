@@ -27,10 +27,11 @@ const BlogPage = () => {
 
                 <div class="blogstage">
 
+
                 </div>
 
             </Layout>
-        </div>
+        </div >
     )
 
 }

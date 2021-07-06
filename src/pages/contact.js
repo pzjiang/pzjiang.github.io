@@ -25,11 +25,7 @@ const ContactPage = () => {
                     <p>pzjiang01</p>
 
                 </div>
-                <div class="codeforce">
-                    <h1>CodeForce</h1>
-                    <p>TBD</p>
 
-                </div>
 
             </Layout>
         </div>
