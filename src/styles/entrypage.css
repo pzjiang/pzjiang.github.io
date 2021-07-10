@@ -18,17 +18,16 @@
 
 }
 
-.titlename {
+.Title {
     
     font-family: "Catamaran", sans-serif;
-  color: white;
-  cursor: pointer;
-  position: relative;
- 
+    color: white;
+    cursor: pointer;
+    position: relative;
+
     
 }
-
-.entrytitle {
+    .Title__entry {
     text-decoration: none;
     color: black;
     position: relative;
@@ -40,7 +39,8 @@
     -webkit-text-stroke: 1px white;
     -webkit-text-fill-color: rgba(255, 255, 255, 0);
 }
-.underLine {
+
+.Title__underLine {
     position: absolute;
     width: 100%;
     left: 0;
@@ -52,7 +52,7 @@
 
 }
 
-.highLight {
+.Title__highLight {
     position: absolute;
     width: 100%;
     bottom: -50;
@@ -63,7 +63,7 @@
     transition: transform 400ms ease;
 }
 
-.title_filled {
+.Title__filled {
     position: absolute;
     margin: 0;
     padding: 0;
@@ -75,14 +75,3 @@
   
 }
 
-.hometitle:hover {
-    .Title__filled {
-      clip-path: polygon(0% 100%, 0% 0%, 100% 0%, 100% 100%);
-    }
-    .Title__underline {
-      transform: translateY(-9em);
-    }
-    .Title__highlight {
-      transform: translateY(-2.2em);
-    }
-  }

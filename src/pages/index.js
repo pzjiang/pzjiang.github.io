@@ -94,15 +94,13 @@ const IndexPage = () => {
       </head>
 
       <div class="hometitle">
-        <div class="titlename">
-          <Link class="entrytitle" to="/about">Peter Jiang <br></br>Software Developer
-            <div class="highLight"></div>
+        <div class="Title">
+          <Link class="Title__entry" to="/about">Peter Jiang <br></br>Software Developer
+            <div class="Title__highLight"></div>
           </Link>
-          <div class="underLine"></div>
-          <div aria-hidden class="title_filled">Peter Jiang<br></br> Software Developer</div>
-
+          <div class="Title__underLine"></div>
+          <div aria-hidden class="Title__filled">Peter Jiang<br></br> Software Developer</div>
         </div>
-
       </div>
 
 
