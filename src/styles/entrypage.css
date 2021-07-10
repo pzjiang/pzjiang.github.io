@@ -20,5 +20,6 @@
 }
 
 .entrytitle {
-    
+    text-decoration: none;
+    color: black;
 }
