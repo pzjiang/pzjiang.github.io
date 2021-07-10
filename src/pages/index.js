@@ -99,7 +99,7 @@ const IndexPage = () => {
             <div class="highLight"></div>
           </Link>
           <div class="underLine"></div>
-          <div aria-hidden class="title_filled">Peter Jiang <br></br> Software Developer</div>
+          <div aria-hidden class="title_filled">Peter Jiang<br></br> Software Developer</div>
 
         </div>
 
