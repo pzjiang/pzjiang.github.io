@@ -20,10 +20,7 @@
     color: white;
 
 }
-.tabs:current {
-    color: pink;
 
-}
 
 .pagetabs {
     float: right;
@@ -44,4 +41,8 @@
 
 .entiredesk {
     margin: 0px;
+}
+
+.activeLink {
+    color: white;
 }

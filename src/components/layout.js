@@ -19,7 +19,7 @@ const nameStyle = {
 
 const ListLink = props => (
     <li class="linkLayout">
-        <Link class="tabs" to={props.to}>{props.children}</Link>
+        <Link class="tabs" activeClassName="activeLink" to={props.to}>{props.children}</Link>
     </li>
 )
 
