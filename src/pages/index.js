@@ -92,9 +92,9 @@ const IndexPage = () => {
 
       <div class="hometitle">
         <div class="titlename">
-          <h1>Peter Jiang <br></br>Software Developer
+          <Link class="entrytitle" to="/about">Peter Jiang <br></br>Software Developer
             <div class="highLight"></div>
-          </h1>
+          </Link>
           <div class="underLine"></div>
           <div aria-hidden class="title_filled">Peter Jiang <br></br> Software Developer</div>
 
