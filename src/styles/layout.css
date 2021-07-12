@@ -7,8 +7,9 @@
 .nameLayout {
     text-decoration: none;
     color: white;
-    font-size: 26px;
-    
+    font-size: 32px;
+    margin-left: 2vmin;
+    margin-top: 2vmin;
 
 }
 .nameLayout:hover {
@@ -18,11 +19,18 @@
 
 .tabs {
     color: white;
+    text-decoration: none;
+    font-size: 18px;
+    transition-duration: 200ms;
 
+}
+.tabs:hover {
+    
 }
 
 
 .pagetabs {
+    
     float: right;
     list-style: none;
     margin-top: 0.3rem;
@@ -46,4 +54,12 @@
 
 .activeLink {
     color: white;
+    text-decoration: none;
+    font-size: 22px;
+    
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
 }
