@@ -60,6 +60,24 @@
 }
 
 .footer {
+    background-color: rgb(197, 194, 194);
     position: fixed;
     bottom: 0;
+    width: 100vw;
+    height: 7vh;
+    
+}
+
+.copyright {
+    font-family: 'Red Hat Text', sans-serif;
+font-size: 12px;
+font-weight: 300;
+margin-bottom: 0;
+margin-right: auto;
+}
+
+.footercontain {
+    display: flex;
+align-items: center;
+padding: 1rem 5rem;
 }

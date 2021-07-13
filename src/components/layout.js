@@ -53,14 +53,12 @@ export default function layout({ children }) {
             </div>
 
             <div class="footer">
-                <hr style={{ width: "100vw" }} />
-
-                <div class="copyright">
-
-                </div>
 
 
-                <div class="footlinks">
+                <div class="footercontain">
+                    <span class="copyright">©peter jiang, 2021, all rights reserved.  </span>
+
+
 
                 </div>
             </div>
