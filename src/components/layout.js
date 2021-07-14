@@ -1,4 +1,8 @@
 import * as React from "react"
+import { library } from '@fortawesome/fontawesome-svg-core'
+import { fab } from '@fortawesome/free-brands-svg-icons'
+import { fas } from '@fortawesome/free-solid-svg-icons'
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 
 import { Link } from "gatsby"
 
@@ -57,6 +61,8 @@ export default function layout({ children }) {
 
                 <div class="footercontain">
                     <span class="copyright">©peter jiang, 2021, all rights reserved.  </span>
+
+                    <Link> <FontAwesomeIcon icon={["fab", "github-square"]} /> </Link>
 
 
 
