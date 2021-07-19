@@ -6,6 +6,9 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 
 import { Link } from "gatsby"
 
+
+library.add(fab, fas)
+
 //style
 const linkStyle = {
     marginRight: "3rem",
@@ -61,11 +64,12 @@ export default function layout({ children }) {
 
                 <div class="footercontain">
                     <span class="copyright">©peter jiang, 2021, all rights reserved.  </span>
+                    <div class="svgcontainer">
+                        <Link to="https://github.com/pzjiang" class="svgicon"> <FontAwesomeIcon icon={["fab", "github-square"]} /> </Link>
+                        <Link to="https://www.linkedin.com/in/peter-jiang-9923580bb/" class="svgicon"><FontAwesomeIcon icon={["fab", "linkedin"]} /></Link>
+                        <a class="svgicon"><FontAwesomeIcon icon={["fas", "file"]} /></a>
 
-                    <Link> <FontAwesomeIcon icon={["fab", "github-square"]} /> </Link>
-
-
-
+                    </div>
                 </div>
             </div>
 

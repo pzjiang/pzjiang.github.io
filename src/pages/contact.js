@@ -26,6 +26,7 @@ const ContactPage = () => {
                     <p>pzjiang01</p>
 
                 </div>
+                <p>Please check out the links below! You can find github, linkedin, resume, and Hu-Lu-Si Syllabus website respectively.</p>
             </div>
 
         </Layout>

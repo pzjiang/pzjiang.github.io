@@ -1,3 +1,13 @@
 .contactbody {
     text-align: center;
 }
+
+.emailsection {
+    background-color: rgb(241, 241, 241);
+    padding: 8px;
+}
+
+.githubsection {
+    background-color: rgb(241, 241, 241);
+    padding: 8px;
+}
