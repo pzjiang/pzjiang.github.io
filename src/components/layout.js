@@ -42,10 +42,10 @@ export default function layout({ children }) {
 
 
                 <ul class="pagetabs">
-                    <ListLink to="/about">About Me</ListLink>
+                    <ListLink to="/about">About</ListLink>
                     <ListLink to="/projects">Projects</ListLink>
                     <ListLink to="/contact">Contact</ListLink>
-                    <ListLink to="/blog">Thoughts</ListLink>
+                    <ListLink to="/blog">Blog</ListLink>
 
                 </ul>
 

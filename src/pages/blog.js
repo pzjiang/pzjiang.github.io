@@ -10,9 +10,9 @@ import Layout from "../components/layout.js"
 const blogposts = [
 
     {
-        title: "",
-        date: "",
-        content: "",
+        title: "The Beginning",
+        date: "July 19, 2021",
+        content: "Creation of the blog :) This'll be my slightly less public twitter.",
     },
 
 ]

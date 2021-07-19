@@ -2,6 +2,7 @@
 .linkLayout {
     margin-right: 3rem;
     display: inline-block;
+    
 }
 
 .nameLayout {
@@ -22,10 +23,12 @@
     text-decoration: none;
     font-size: 18px;
     transition-duration: 200ms;
+    vertical-align: top;
 
 }
 .tabs:hover {
-    font-size: 22px;
+    font-size: 18px;
+    vertical-align: bottom;
 }
 
 
