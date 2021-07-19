@@ -23,7 +23,10 @@ const AboutPage = () => {
 
                 <div class="aboutstage">
                     <h1>About Me</h1>
-                    <p>I am a rising junior at Purdue University, studying software engineering and machine learning.</p>
+                    <p>I am an undergrad at Purdue University, studying computer science with minors in statistics and chinese.
+                        My main points of interest are software engineering and data structures/algorithms.
+
+                    </p>
 
                 </div>
 
