@@ -22,19 +22,28 @@ const AboutPage = () => {
                 <title>About</title>
 
                 <div class="aboutstage">
-                    <div class="column">
+                    <div class="columncontainer">
+                        <div class="column">
 
-                        <h1>About Me</h1>
-                    </div>
+                            <h1>Some Things About Me</h1>
+                        </div>
 
-                    <div class="column">
-                        <p>I am an undergrad at Purdue University, studying computer science with minors in statistics and chinese.<br />
-                            My main points of interest are software engineering and data structures/algorithms.
+                        <div class="column">
+                            <p>I Peter Jiang, an undergrad at Purdue University, studying computer science with minors in statistics and chinese.
+                                My main points of interest are software engineering and data structures/algorithms.
+                            </p>
+                            <p>
 
-                        </p>
+                            </p>
+                        </div>
                     </div>
 
                 </div>
+
+                <div class="">
+
+                </div>
+
 
             </Layout>
         </div >

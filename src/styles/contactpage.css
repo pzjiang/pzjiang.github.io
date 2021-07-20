@@ -13,14 +13,31 @@
 }
 
 .aboutstage {
-    
-    display: flex;
+
+    justify-content: center;
+    padding-left: 8vw;
+    padding-right: 8vw;
+    padding-top: 3vw;
+    padding-bottom: 3vh;
+    min-height: 35vh;
     
     
     
     
 }
 
+.columncontainer {
+    display: flex;
+    margin: auto;
+    padding: auto;
+
+}
+
 .column {
     flex: 50%;
+    padding: auto;
+    text-align: center;
+    
+    float: center;
+
 }
