@@ -67,7 +67,8 @@ export default function layout({ children }) {
                     <div class="svgcontainer">
                         <Link to="https://github.com/pzjiang" class="svgicon"> <FontAwesomeIcon icon={["fab", "github-square"]} /> </Link>
                         <Link to="https://www.linkedin.com/in/peter-jiang-9923580bb/" class="svgicon"><FontAwesomeIcon icon={["fab", "linkedin"]} /></Link>
-                        <a class="svgicon"><FontAwesomeIcon icon={["fas", "file"]} /></a>
+                        <a class="svgicon"><FontAwesomeIcon icon={["fas", "file"]} />  </a>
+                        <Link to="https://www.youtube.com/channel/UCyU4EymKbZcKkrECRD9MD6A/videos"><FontAwesomeIcon icon={["fab", "youtube-square"]}></FontAwesomeIcon></Link>
 
                     </div>
                 </div>
