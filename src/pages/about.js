@@ -47,10 +47,11 @@ const AboutPage = () => {
                 <div class="knowledge">
                     <div class="columncontainer">
                         <div class="column">
+                            <h1>What I Know</h1>
 
                         </div>
                         <div class="column">
-
+                            MYO
                         </div>
 
                     </div>
