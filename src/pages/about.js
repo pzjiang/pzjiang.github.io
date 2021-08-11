@@ -39,6 +39,9 @@ const AboutPage = () => {
                                 <Link to="https://hulusi.gatsbyjs.io/">Hu-Lu-Si</Link>
 
                             </p>
+                            <p></p>
+
+
                         </div>
                     </div>
 
