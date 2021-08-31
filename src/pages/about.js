@@ -1,5 +1,10 @@
 import * as React from "react"
 import Layout from "../components/layout.js"
+import { library } from '@fortawesome/fontawesome-svg-core'
+import { fab } from '@fortawesome/free-brands-svg-icons'
+import { fas } from '@fortawesome/free-solid-svg-icons'
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
+import { Link } from "gatsby"
 
 
 /*
@@ -49,12 +54,31 @@ const AboutPage = () => {
 
                 <div class="knowledge">
                     <div class="columncontainer">
+
                         <div class="column">
-                            <h1>What I Know</h1>
+                            <div class="logorow">
+                                <FontAwesomeIcon icon={["fab", "python"]} />
+                                <div class="logo-spacer" />
+                                <FontAwesomeIcon icon={["fab", "java"]} />
+                                <div class="logo-spacer" />
+                                <FontAwesomeIcon icon={["fab", "angular"]} />
+
+                            </div>
+                            <div class="logorow">
+                                <FontAwesomeIcon icon={["fab", "js-square"]} />
+                                <div class="logo-spacer" />
+                                <FontAwesomeIcon icon={["fab", "css3-alt"]} />
+                                <div class="logo-spacer" />
+                                <FontAwesomeIcon icon={["fab", "react"]} />
+
+
+                            </div>
+
 
                         </div>
                         <div class="column">
-                            MYO
+                            <h1>What I Know</h1>
+
                         </div>
 
                     </div>

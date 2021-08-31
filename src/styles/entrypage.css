@@ -80,3 +80,18 @@
 .Title:hover > .Title__underLine {
     transform: translateY(-9em);
 }
+
+
+
+.logorow {
+    display: flex;
+  flex-wrap: wrap;
+  font-size: 9vh;
+  color: #17252a;
+  justify-content: center;
+  margin-bottom: 2vh;
+}
+
+.logo-spacer {
+    width: 3vw;
+}
