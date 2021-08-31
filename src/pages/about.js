@@ -24,7 +24,7 @@ const AboutPage = () => {
     return (
         <div>
             <Layout>
-                <title>About</title>
+                <title>About Me</title>
 
                 <div class="aboutstage">
                     <div class="columncontainer">
@@ -78,7 +78,6 @@ const AboutPage = () => {
                         </div>
                         <div class="column">
                             <h1>What I Know</h1>
-
                         </div>
 
                     </div>
