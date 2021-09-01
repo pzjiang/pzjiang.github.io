@@ -2,6 +2,8 @@
 
 body {
     margin: 0px;
+    max-width: 100%;
+    overflow-x: hidden;
     
 } 
 p {
@@ -9,3 +11,7 @@ p {
     font-size: 1.25rem;
   }
 
+
+div {
+    word-wrap: break-word;
+}

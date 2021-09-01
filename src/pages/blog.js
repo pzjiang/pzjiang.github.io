@@ -7,15 +7,7 @@ import Layout from "../components/layout.js"
     date:
     content:
 */
-const blogposts = [
 
-    {
-        title: "The Beginning",
-        date: "July 19, 2021",
-        content: "Creation of the blog :) This'll be my slightly less public twitter.",
-    },
-
-]
 
 
 const BlogPage = () => {
@@ -23,11 +15,28 @@ const BlogPage = () => {
     return (
 
         <Layout>
-            <title>Blog</title>
-
+            <title>More</title>
             <div class="blogstage">
+                <div class="moretitle"><h1>Organizations I am a part of</h1></div>
 
 
+                <div class="columnsmore">
+                    <div class="column">
+                        <img src="/kpiblogo.png" class="piclogo" />
+
+                    </div>
+                    <div class="column">
+                        <img src="/AAA.jpg" class="piclogo" />
+
+                    </div>
+                    <div class="column">
+                        <img src="CPUlogo.png" class="piclogo" />
+
+                    </div>
+
+
+
+                </div>
             </div>
 
         </Layout>

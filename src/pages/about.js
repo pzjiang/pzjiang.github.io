@@ -84,22 +84,9 @@ const AboutPage = () => {
                     </div>
 
                 </div>
-                <div class="spacing"></div>
-
-                <div class="partorgs">
-                    <div class="columncontainer">
-                        <div class="column">
-                            <h1>Some organizations I am in</h1>
-                        </div>
-                        <div class="column">
-
-                        </div>
 
 
-                    </div>
 
-
-                </div>
 
 
             </Layout>

@@ -1,0 +1,20 @@
+.piclogo {
+    width: 20vmin;
+    height: 20vmin;
+}
+
+.blogstage {
+    margin-top: 7vh;
+    
+
+}
+
+.columnsmore {
+    display: flex;
+    margin: auto;
+    padding: auto;
+}
+
+.moretitle {
+    text-align: center;
+}
