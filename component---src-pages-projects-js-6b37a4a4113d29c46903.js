@@ -1,0 +1,2 @@
+(self.webpackChunkpwebsite=self.webpackChunkpwebsite||[]).push([[853],{7744:function(e,t,l){"use strict";l.r(t);var s=l(7294),c=l(7198);t.default=function(){return s.createElement(c.Z,null,s.createElement("title",null,"Projects"),s.createElement("div",{class:"hangman"}),s.createElement("div",{class:"moneybud"}),s.createElement("div",{class:"boof"}),s.createElement("div",{class:"hulusi"}),s.createElement("div",{class:"crudfirst"}))}}}]);
+//# sourceMappingURL=component---src-pages-projects-js-6b37a4a4113d29c46903.js.map
