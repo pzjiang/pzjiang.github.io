@@ -4,12 +4,12 @@ import Layout from "../components/layout.js"
 
 
 
-const ProjectPage = () => {
+const BoofPage = () => {
 
     return (
 
         <Layout>
-            <title>Projects</title>
+            <title>Boof</title>
 
 
 
@@ -22,4 +22,4 @@ const ProjectPage = () => {
 
 }
 
-export default ProjectPage
+export default BoofPage
