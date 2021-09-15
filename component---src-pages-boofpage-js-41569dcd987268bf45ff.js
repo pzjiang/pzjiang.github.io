@@ -1,0 +1,2 @@
+(self.webpackChunkpwebsite=self.webpackChunkpwebsite||[]).push([[748],{3241:function(e,t,n){"use strict";n.r(t);var l=n(7294),u=n(7198);t.default=function(){return l.createElement(u.Z,null,l.createElement("title",null,"Boof"))}}}]);
+//# sourceMappingURL=component---src-pages-boofpage-js-41569dcd987268bf45ff.js.map
