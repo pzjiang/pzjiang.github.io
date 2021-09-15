@@ -1,7 +1,7 @@
 import * as React from "react"
 
 import { Link } from "gatsby"
-
+//"deploy": "gatsby build && gh-pages -d public -b main"
 
 // styles
 const pageStyles = {
