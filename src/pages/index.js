@@ -83,7 +83,6 @@ const badgeStyle = {
 
 // data
 
-
 // markup
 const IndexPage = () => {
   return (
