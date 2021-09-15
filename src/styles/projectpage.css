@@ -23,6 +23,12 @@
     text-align: center;
 }
 
+.imageteasers {
+    max-width: 15vw;
+    max-height: 15vh;
+}
+
+
 /* this will be carousel css code */
 .carousel {
     position: relative;
