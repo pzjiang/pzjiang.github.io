@@ -45,7 +45,7 @@ const ProjectPage = () => {
                 </div>
 
                 <div class="column">
-                    <img src="" class="imageteasers" />
+                    <img src="booftitle.PNG" class="imageteasers" />
 
                 </div>
             </div>
