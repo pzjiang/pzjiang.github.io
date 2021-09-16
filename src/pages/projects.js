@@ -1,5 +1,6 @@
 import * as React from "react"
 import Layout from "../components/layout.js"
+import { Link } from "gatsby"
 
 
 
@@ -20,6 +21,7 @@ const ProjectPage = () => {
                 <div class="column">
                     <h1>Name: <p> BoilerUp Hangmang</p></h1>
                     <h1>Brief Summary: <p></p></h1>
+                    <Link class="projectlinks" to="/hangman">Hangman Gallery :) </Link>
 
 
 
