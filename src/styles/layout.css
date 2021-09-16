@@ -54,6 +54,7 @@
 .entiredesk {
     margin: 0px;
     max-width: 100%;
+    scrollbar-width: 0;
    
 }
 .desk {

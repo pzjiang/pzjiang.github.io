@@ -20,28 +20,37 @@ const HangmanPage = () => {
             </div>
             <div class="carousel">
                 <input type="checkbox" class="faux-ui-facia" />
-                <div class="slide" slide="1" annot="More to come, but enjoy this picture I took of NEOWISE for now.">
-                    <img src="/hangtitle.PNG" alt="Slide 1" />
+                <div class="slide" slide="1" annot="Homepage of Boilerup Hangman">
+                    <img class="galleryimage" src="/hangtitle.PNG" alt="Slide 1" />
                 </div>
 
                 <input type="checkbox" class="faux-ui-facia" />
-                <div class="slide" slide="2" annot="BoilerMake - Cam Mouse">
-                    <img src="/hangmanGameplay.PNG" alt="Slide 2" />
+                <div class="slide" slide="2" annot="Gameplay picture">
+                    <img class="galleryimage" src="/hangmanGameplay.PNG" alt="Slide 2" />
                 </div>
 
                 <input type="checkbox" class="faux-ui-facia" />
-                <div class="slide" slide="3" annot="VandyHacks - Social Savage">
-                    <img src="/losescreen.PNG" alt="Slide 3" />
+                <div class="slide" slide="3" annot="Screen displayed after loss">
+                    <img class="galleryimage" src="/losescreen.PNG" alt="Slide 3" />
                 </div>
 
                 <input type="checkbox" class="faux-ui-facia" />
-                <div class="slide" slide="4" annot="HackTX - Farm Assist">
-                    <img src="/highscores.PNG" alt="Slide 4" />
+                <div class="slide" slide="4" annot="High scores window">
+                    <img class="galleryimage" src="/highscores.PNG" alt="Slide 4" />
                 </div>
 
 
             </div>
-
+            <div class="projectheadings">
+                <ul>
+                    <li>Purpose: To make a fun little game to play while bored</li>
+                    <li>Languages used: Python</li>
+                    <li>Description: Hangman made in a Purdue theme. High scores are saved
+                        in a text file, and can be displayed in a automatically scrolling window. Each move is timed,
+                        so think quickly!
+                    </li>
+                </ul>
+            </div>
 
 
 

@@ -24,16 +24,26 @@
 }
 
 .imageteasers {
-    max-width: 15vw;
-    max-height: 15vh;
+    max-width: 30vw;
+    max-height: 30vh;
+    margin-top: 3vh; 
 }
 
 
+.projectspacing {
+  min-height: 5vh;
+}
 /* this will be carousel css code */
+.galleryimage {
+  width: 80vmin;
+  height: 55vmin;
+}
+
+
 .carousel {
     position: relative;
-    width: 90vmin;
-    height: 60vmin;
+    width: 80vmin;
+    height: 55vmin;
     overflow: hidden;
     left: 0vw;
     margin: 0 auto;
@@ -50,8 +60,8 @@
     position: absolute;
     margin-left: 0;
     z-index: 1;
-    width: 90vmin;
-    height: 60vmin;
+    width: 80vmin;
+    height: 55vmin;
     background-color: #eee;
     text-align: center;
     transition: opacity 0.4s;
