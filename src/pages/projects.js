@@ -53,7 +53,7 @@ const ProjectPage = () => {
 
             <div class="projectheadings">
 
-                For more, please check out my GitHub! Just click on the GitHub symbol below.
+                For more, please check out my GitHub! Just click on the GitHub symbol in the footer below!
 
             </div>
 
