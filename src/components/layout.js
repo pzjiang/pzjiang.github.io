@@ -68,7 +68,6 @@ export default function layout({ children }) {
                         <Link to="https://github.com/pzjiang" class="svgicon"> <FontAwesomeIcon icon={["fab", "github-square"]} /> </Link>
                         <Link to="https://www.linkedin.com/in/peter-jiang-9923580bb/" class="svgicon"><FontAwesomeIcon icon={["fab", "linkedin"]} /></Link>
                         <a class="svgicon" href="/ResumeP.pdf"><FontAwesomeIcon icon={["fas", "file"]} /></a>
-
                     </div>
                 </div>
             </div>
