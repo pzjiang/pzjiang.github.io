@@ -13,10 +13,10 @@ const BoofPage = () => {
     return (
 
         <Layout>
-            <title>Boof</title>
+            <title>Purude Circle</title>
             <div class="projectheadings">
-                <h1> Boof Exhibit </h1>
-                <p> Here are some pictures of the game:</p>
+                <h1>Purdue Circle Exhibit</h1>
+                <p> Here are some pictures of the app:</p>
             </div>
             <div class="carousel">
                 <input type="checkbox" class="faux-ui-facia" />

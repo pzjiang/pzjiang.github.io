@@ -34,13 +34,13 @@ const ProjectPage = () => {
 
             <div class="columncontainer">
                 <div class="column">
-                    <h1>Name: Home Defender Boof</h1>
-                    <p> This project was made using JavaScript, HTML, and CSS. The premise of the game is a grape named Boof
-                        is defending his home from invading raisins. In order to eliminate the raisins that are invading, the player
-                        must enter in the matching sequence of arrow key inputs. Images can be found in the gallery below!
+                    <h1>Name: Purdue Circle</h1>
+                    <p> This project was made using React as the frontend and Rails as the backend, as well as Postgres as the database.
+                        The web app is a model of the common social media apps prevalent in our daily lives, allowing users to follow and message
+                        each other, as well as interact with each other's posts. Check out some pictures of the different features with the link below!
                     </p>
 
-                    <Link class="projectlinks" to="/boofpage">Boof Gallery :) </Link>
+                    <Link class="projectlinks" to="/boofpage">Purdue Circle Gallery :) </Link>
 
                 </div>
 
