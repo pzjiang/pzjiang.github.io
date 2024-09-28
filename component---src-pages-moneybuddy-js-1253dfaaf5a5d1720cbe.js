@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkpwebsite=self.webpackChunkpwebsite||[]).push([[707],{5918:function(e,t,l){l.r(t);var u=l(6540),n=l(1864);t.default=()=>u.createElement(n.A,null,u.createElement("title",null,"M Buddy"))}}]);
+//# sourceMappingURL=component---src-pages-moneybuddy-js-1253dfaaf5a5d1720cbe.js.map
