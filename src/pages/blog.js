@@ -17,7 +17,7 @@ const BlogPage = () => {
         <Layout>
             <title>More</title>
             <div class="blogstage">
-                <div class="moretitle"><h1>Organizations I am a part of</h1></div>
+                <div class="moretitle"><h1>Past Leadership Experience</h1></div>
 
 
                 <div class="columnsmore">
