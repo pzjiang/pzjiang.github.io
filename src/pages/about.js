@@ -34,14 +34,13 @@ const AboutPage = () => {
                         </div>
 
                         <div class="column">
-                            <p>My name is Peter Jiang, an undergrad at Purdue University, studying computer science with minors in statistics and chinese.
-                                Software engineering and data structures/algorithms are my main points of interest.
+                            <p>My name is Peter Jiang, a software Developer at Epic Systems. I work on the Release of Information team, under the 
+                                Health Information Management umbrella. The areas I am most proficient in would be the individual selection module, and
+                                the batch release module.
                             </p>
                             <p>
-                                I also teach Hu-Lu-Si, providing both private lessons and public lessons at Chinese Schools. I have taught 5 years collectively at
-                                the Pittsburgh Chinese School located in Pittsburgh, PA, as well as the Carmel branch of ICCCI in Carmel, Indiana. I currently
-                                teach virtually through Zoom for the TAMU Chinese based in College Station, Texas. Check out the syllabus website here:
-                                <Link to="https://hulusi.gatsbyjs.io/">Hu-Lu-Si</Link>
+                                Outside of work, you can primarily find me playing volleyball, pickleball, or badminton. I also enjoy board games,
+                                or attending local trivias.
 
                             </p>
                             <p></p>

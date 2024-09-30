@@ -34,18 +34,18 @@ const ProjectPage = () => {
 
             <div class="columncontainer">
                 <div class="column">
-                    <h1>Name: Home Defender Boof</h1>
-                    <p> This project was made using JavaScript, HTML, and CSS. The premise of the game is a grape named Boof
-                        is defending his home from invading raisins. In order to eliminate the raisins that are invading, the player
-                        must enter in the matching sequence of arrow key inputs. Images can be found in the gallery below!
+                    <h1>Name: Avalon: Virtual Edition</h1>
+                    <p> This project was made in order to eliminate the hassel of having to reorganize the cards and tokens after each voting round while playing Avalon.
+                        It was built using React and Firebase. We allow a minimum of 5 players, with a maximum of 10 players for each lobby. For more images from
+                        the game, check out the gallery!
                     </p>
 
-                    <Link class="projectlinks" to="/boofpage">Boof Gallery :) </Link>
+                    <Link class="projectlinks" to="/boofpage">Purdue Circle Gallery :) </Link>
 
                 </div>
 
                 <div class="column">
-                    <img src="booftitle.PNG" class="imageteasers" />
+                    <img src="avalonHome.PNG" class="imageteasers" />
 
                 </div>
             </div>

@@ -13,27 +13,41 @@ const BoofPage = () => {
     return (
 
         <Layout>
-            <title>Boof</title>
+            <title>Avalon</title>
             <div class="projectheadings">
-                <h1> Boof Exhibit </h1>
-                <p> Here are some pictures of the game:</p>
+                <h1>Avalon: Exhibit</h1>
+                <p> Here are some pictures of the app:</p>
             </div>
             <div class="carousel">
                 <input type="checkbox" class="faux-ui-facia" />
                 <div class="slide" slide="1" annot="Homepage of Boilerup Hangman">
-                    <img class="galleryimage" src="/booflosescreen.PNG" alt="Slide 1" />
+                    <img class="galleryimage" src="/avalonHome.PNG" alt="Slide 1" />
                 </div>
 
                 <input type="checkbox" class="faux-ui-facia" />
                 <div class="slide" slide="2" annot="Gameplay picture">
-                    <img class="galleryimage" src="/boofgameplay.PNG" alt="Slide 2" />
+                    <img class="galleryimage" src="/roomCreation.PNG" alt="Slide 2" />
                 </div>
 
                 <input type="checkbox" class="faux-ui-facia" />
                 <div class="slide" slide="1" annot="Screen displayed after loss">
-                    <img class="galleryimage" src="/booftitle.PNG" alt="Slide 1" />
+                    <img class="galleryimage" src="/roomLobbyPopulated.PNG" alt="Slide 1" />
                 </div>
 
+                <input type="checkbox" class="faux-ui-facia" />
+                <div class="slide" slide="1" annot="Screen displayed after loss">
+                    <img class="galleryimage" src="/roleSelection.PNG" alt="Slide 1" />
+                </div>
+
+                <input type="checkbox" class="faux-ui-facia" />
+                <div class="slide" slide="1" annot="Screen displayed after loss">
+                    <img class="galleryimage" src="/gameRoom.PNG" alt="Slide 1" />
+                </div>
+
+                <input type="checkbox" class="faux-ui-facia" />
+                <div class="slide" slide="1" annot="Screen displayed after loss">
+                    <img class="galleryimage" src="/myRole.PNG" alt="Slide 1" />
+                </div>
 
 
 
