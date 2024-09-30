@@ -20,33 +20,33 @@ const BoofPage = () => {
             </div>
             <div class="carousel">
                 <input type="checkbox" class="faux-ui-facia" />
-                <div class="slide" slide="1" annot="Homepage of Boilerup Hangman">
-                    <img class="galleryimage" src="/avalonHome.PNG" alt="Slide 1" />
+                <div class="slide" slide="1" annot="home page">
+                    <img class="galleryimage" src="/avalonHome.png" alt="Slide 1" />
                 </div>
 
                 <input type="checkbox" class="faux-ui-facia" />
-                <div class="slide" slide="2" annot="Gameplay picture">
-                    <img class="galleryimage" src="/roomCreation.PNG" alt="Slide 2" />
+                <div class="slide" slide="2" annot="room creation">
+                    <img class="galleryimage" src="/roomCreation.png" alt="Slide 2" />
                 </div>
 
                 <input type="checkbox" class="faux-ui-facia" />
-                <div class="slide" slide="1" annot="Screen displayed after loss">
-                    <img class="galleryimage" src="/roomLobbyPopulated.PNG" alt="Slide 1" />
+                <div class="slide" slide="1" annot="room lobby">
+                    <img class="galleryimage" src="/roomLobbyPopulated.png" alt="Slide 3" />
                 </div>
 
                 <input type="checkbox" class="faux-ui-facia" />
-                <div class="slide" slide="1" annot="Screen displayed after loss">
-                    <img class="galleryimage" src="/roleSelection.PNG" alt="Slide 1" />
+                <div class="slide" slide="1" annot="role selection">
+                    <img class="galleryimage" src="/roleSelection.png" alt="Slide 4" />
                 </div>
 
                 <input type="checkbox" class="faux-ui-facia" />
-                <div class="slide" slide="1" annot="Screen displayed after loss">
-                    <img class="galleryimage" src="/gameRoom.PNG" alt="Slide 1" />
+                <div class="slide" slide="1" annot="game room">
+                    <img class="galleryimage" src="/gameRoom.png" alt="Slide 5" />
                 </div>
 
                 <input type="checkbox" class="faux-ui-facia" />
-                <div class="slide" slide="1" annot="Screen displayed after loss">
-                    <img class="galleryimage" src="/myRole.PNG" alt="Slide 1" />
+                <div class="slide" slide="1" annot="role assignment">
+                    <img class="galleryimage" src="/myRole.png" alt="Slide 6" />
                 </div>
 
 

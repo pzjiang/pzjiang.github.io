@@ -40,12 +40,12 @@ const ProjectPage = () => {
                         the game, check out the gallery!
                     </p>
 
-                    <Link class="projectlinks" to="/boofpage">Purdue Circle Gallery :) </Link>
+                    <Link class="projectlinks" to="/boofpage">Avalon Gallery :) </Link>
 
                 </div>
 
                 <div class="column">
-                    <img src="avalonHome.PNG" class="imageteasers" />
+                    <img src="avalonHome.png" class="imageteasers" />
 
                 </div>
             </div>
