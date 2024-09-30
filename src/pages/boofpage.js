@@ -54,11 +54,12 @@ const BoofPage = () => {
             </div>
             <div class="projectheadings">
                 <ul>
-                    <li>Purpose: Project used as an introduction to JavaScript, HTML, and CSS</li>
+                    <li>Purpose: Use between friends on game night</li>
                     <li>Languages used: JavaScript, HTML, CSS</li>
-                    <li>Description: Boof was made for the freshman year Hello World Hackathon. It was created
-                        in order to become more familiar with JavaScript, and to learn basic techiniques such as
-                        simple animations.
+                    <li>Description: This project was started due to the fact that wear and tear on the voting tiles and cards 
+                        allowed us to tell what role each person was simply by looking at the back of their card. Thus, the virtual avalon
+                        was created, allowing voting, role assignment, and gameplay mechanics to all be made virtual, thus removing any 
+                        unfair variables, as well as eliminate the time we spent shuffling and dealing out the physical materials.
                     </li>
                 </ul>
             </div>
